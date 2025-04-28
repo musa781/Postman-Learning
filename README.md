@@ -1,1 +1,3 @@
 # Postman-Learning
+Postman is a tool used for testing APIs. It allows developers to send HTTP requests to their Express server and inspect the responses. This is useful for verifying that the API endpoints are working correctly and returning the expected data.
+To use Postman with Express, you will need to have an Express server running. Once the server is running, you can use Postman to send requests to the server's endpoints. You can specify the HTTP method (GET, POST, PUT, DELETE, etc.), the URL of the endpoint, and any request headers or body parameters. Postman will then send the request to the server and display the response, including the status code, headers, and body.
